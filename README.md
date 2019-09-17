@@ -1,9 +1,9 @@
 # Tourist Guide a web based application using CODEIGNITER
 This is a web base project. Front-end of this project is designed by using HTML, CSS and Boostrap. Codeigniter MVC framework is used to integrate front-end with MySql database.
 
-###################
-What is CodeIgniter
-###################
+
+<h3>What is CodeIgniter</h3>
+
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
