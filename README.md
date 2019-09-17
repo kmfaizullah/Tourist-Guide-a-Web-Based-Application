@@ -28,7 +28,7 @@ issues, as well as missing features.
 <h3>Installation </h3>
 
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
+Please see the <a href="https://codeigniter.com/user_guide/installation/index.html">installation section</a>` 
 of the CodeIgniter User Guide.
 
 
