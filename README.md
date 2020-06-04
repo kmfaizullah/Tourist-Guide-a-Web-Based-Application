@@ -13,23 +13,24 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+<h3>Requirements</h3>
+1. Tested OS : Windows 10
+2. Xampp server
+
+<h3>Installation instructions</h3>
+1. Clone or download this repository.
+2. Extract the downloaded zip files.
+3. Download and install Xampp server.
+4. Go inside C Drive-> xampp-> htdocs folder and delete all the files and folder.
+5. From the extracted tourist folder copy all the files and folders to C Drive-> xampp-> htdocs folder.
+6. Open a web browser and search  http://localhost/phpmyadmin/ .
+7. Create a new databe name "mydb" by clicking on New optoion.
+8. Under "mydb" databse import downloaded mydb(2) database.
+9. Setup is done. Now go to web browser and type localhost. Home page should apear now.
+10. For accessing admin panel visit url : http://localhost/login
+11. If you did not create any account create an account first or if you already have an account just porive username and password to login into your account.
 
 
-<h3>Server Requirements</h3>
-
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-
-<h3>Installation </h3>
-
-
-Please see the <a href="https://codeigniter.com/user_guide/installation/index.html">installation section</a>` 
-of the CodeIgniter User Guide.
 
 
 
