@@ -14,12 +14,12 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 <h3>Requirements</h3>
-1. Tested OS : Windows 10
-2. Xampp server
+1. Tested OS : Windows 10 <br>
+2. Xampp server <br>
 
 <h3>Installation instructions</h3>
-1. Clone or download this repository.
-2. Extract the downloaded zip files.
+1. Clone or download this repository.<br>
+2. Extract the downloaded zip files.<br>
 3. Download and install Xampp server.
 4. Go inside C Drive-> xampp-> htdocs folder and delete all the files and folder.
 5. From the extracted tourist folder copy all the files and folders to C Drive-> xampp-> htdocs folder.
