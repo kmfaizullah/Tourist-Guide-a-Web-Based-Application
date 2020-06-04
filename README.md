@@ -16,19 +16,20 @@ for a given task.
 <h3>Requirements</h3>
 1. Tested OS : Windows 10 <br>
 2. Xampp server <br>
+3. Files of this Repository <br>
 
 <h3>Installation instructions</h3>
 1. Clone or download this repository.<br>
 2. Extract the downloaded zip files.<br>
-3. Download and install Xampp server.
-4. Go inside C Drive-> xampp-> htdocs folder and delete all the files and folder.
-5. From the extracted tourist folder copy all the files and folders to C Drive-> xampp-> htdocs folder.
-6. Open a web browser and search  http://localhost/phpmyadmin/ .
-7. Create a new databe name "mydb" by clicking on New optoion.
-8. Under "mydb" databse import downloaded mydb(2) database.
-9. Setup is done. Now go to web browser and type localhost. Home page should apear now.
-10. For accessing admin panel visit url : http://localhost/login
-11. If you did not create any account create an account first or if you already have an account just porive username and password to login into your account.
+3. Download and install Xampp server.<br>
+4. Go inside C Drive-> xampp-> htdocs folder and delete all the files and folder.<br>
+5. From the extracted tourist folder copy all the files and folders to C Drive-> xampp-> htdocs folder.<br>
+6. Open a web browser and search  http://localhost/phpmyadmin/ <br>
+7. Create a new databe name "mydb" by clicking on New optoion. <br>
+8. Under "mydb" databse import downloaded mydb(2) database.<br>
+9. Setup is done. Now go to web browser and type localhost. Home page should apear now.<br>
+10. For accessing admin panel visit url : http://localhost/login <br>
+11. If you did not create any account create an account first or if you already have an account just porive username and password to login into your account.<br>
 
 
 
