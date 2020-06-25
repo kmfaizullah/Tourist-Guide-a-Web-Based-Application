@@ -16,8 +16,8 @@ This is a complete web service focusing to help the tourists by providing cumula
 <b> Step : 5</b> Copy all the files and folders from the extracted Tourist folder to` C Drive-> xampp-> htdocs folder`.<br>
 <b> Step : 6</b> Run the Xampp server. <br>
 <b> Step : 7</b> Open a web browser and browse `http://localhost/phpmyadmin/` <br>
-<b> Step : 8</b> Get access the Database option and create a new database named `<b> mydb</b>` <br>
-<b> Step : 9</b> Under `<b> mydb </b>` databse import downloaded `mydb` </b> database.<br>
+<b> Step : 8</b> Get access the Database option and create a new database named `mydb` <br>
+<b> Step : 9</b> Under `mydb` databse import downloaded `mydb` </b> database.<br>
 <b> Step : 10</b> Go to web browser and type `localhost`. Home page should apear now.<br>
 <b> Step : 11</b> For accessing admin panel visit `http://localhost/login` url <br>
 <b> Step : 12</b> Signup for creating a new admin accout or Login with the existing one. <br>
