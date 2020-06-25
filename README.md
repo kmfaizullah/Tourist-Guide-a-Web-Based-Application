@@ -1,5 +1,5 @@
-# Tourist Guide a web based application using CODEIGNITER
-This is a complete web service focusing to help the tourists by providing cumulative information of different tourist places.<br>
+## Tourist Guide a web based application using CODEIGNITER
+This is a complete web service focusing to help the tourists by providing cumulative information of different tourist places. Codeigniter framework has been used to integrate front-end with the MySQL database.<br>
 <b>Technology/Tools </b> : Codeigniter, MySQL, Bootstrap, Java Script, HTML and CSS
 <h6> <a href="https://youtu.be/Tt1YoLw5cpY"> Project Demonestration and Installation video</a> </h6>
 
