@@ -1,36 +1,26 @@
 # Tourist Guide a web based application using CODEIGNITER
-This is a web base project. Front-end of this project is designed by using HTML, CSS and Boostrap. Codeigniter MVC framework is used to integrate front-end with MySql database.
+This is a web base project. Front-end of this project is designed by using HTML, CSS and Boostrap. Codeigniter MVC framework is used to integrate front-end with MySql database.<br>
+Technology/Tools : Codeigniter, MySQL, Bootstrap, Java Script, HTML and CSS
+<h6> <a href="https://youtu.be/Tt1YoLw5cpY"> Project Demonestration and Installation video</a> </h6>
 
-### <a href="https://youtu.be/Tt1YoLw5cpY"> Project Demonestration and Installation video</a>
-
-<h3>What is CodeIgniter</h3>
-
-
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
-<h3>Requirements</h3>
+#### Dependencies
 1. Tested OS : Windows 10 <br>
 2. Xampp server <br>
-3. Files of this Repository <br>
+3. MySQL <br>
 
-<h3>Installation instructions</h3>
-1. Clone or download this repository.<br>
-2. Extract the downloaded zip files.<br>
-3. Download and install Xampp server.<br>
-4. Go inside C Drive-> xampp-> htdocs folder and delete all the files and folder.<br>
-5. From the extracted tourist folder copy all the files and folders to C Drive-> xampp-> htdocs folder.<br>
-6. Open a web browser and search  http://localhost/phpmyadmin/ <br>
-7. Create a new databe name "mydb" by clicking on New optoion. <br>
-8. Under "mydb" databse import downloaded mydb(2) database.<br>
-9. Setup is done. Now go to web browser and type localhost. Home page should apear now.<br>
-10. For accessing admin panel visit url : http://localhost/login <br>
-11. If you did not create any account create an account first or if you already have an account just porive username and password to login into your account.<br>
+#### Runing Procedure
+<b> Step : 1</b> Clone or download this repository.<br>
+<b> Step : 2</b> Extract the downloaded zip files.<br>
+<b> Step : 3</b> Download and install Xampp server using follwing link. <h5> `https://www.apachefriends.org/download.html`</h5>
+<b> Step : 4</b> Go inside `C Drive-> xampp-> htdocs` folder and delete everything.<br>
+<b> Step : 5</b> Copy all the files and folders from the extracted Tourist folder to` C Drive-> xampp-> htdocs folder`.<br>
+<b> Step : 6</b> Run the Xampp server.
+<b> Step : 7</b> Open a web browser and browse `http://localhost/phpmyadmin/` <br>
+<b> Step : 8</b> Get access the Database option and create a new database named `<b> mydb</b>` <br>
+<b> Step : 9</b> Under `<b> mydb </b>` databse import downloaded <b> mydb(2) </b> database.<br>
+<b> Step : 10</b> Go to web browser and type `localhost`. Home page should apear now.<br>
+<b> Step : 11</b> For accessing admin panel visit `http://localhost/login` url <br>
+<b> Step : 12</b> Signup for creating a new admin accout or Login with the existing one. <br>
 
 
 
