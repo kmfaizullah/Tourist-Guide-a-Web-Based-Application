@@ -1,5 +1,5 @@
 # Tourist Guide a web based application using CODEIGNITER
-This is a web base project. Front-end of this project is designed by using HTML, CSS and Boostrap. Codeigniter MVC framework is used to integrate front-end with MySql database.<br>
+This is a complete web service focusing to help the tourists by providing cumulative information of different tourist places.<br>
 <b>Technology/Tools </b> : Codeigniter, MySQL, Bootstrap, Java Script, HTML and CSS
 <h6> <a href="https://youtu.be/Tt1YoLw5cpY"> Project Demonestration and Installation video</a> </h6>
 
